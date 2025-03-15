@@ -35,7 +35,7 @@ Este proyecto permite gestionar los personajes de la película *The Dark Knight*
 
 1. **Clonar el repositorio**  
    ```bash
-   git clone https://github.com/tuusuario/proyecto-personajes.git
+   git clone https://github.com/DaniOspina/full-stack
    cd backend
    ```
 
